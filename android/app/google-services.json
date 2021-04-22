@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738474782124",
+    "project_id": "movpass-interview",
+    "storage_bucket": "movpass-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738474782124:android:7e2af459fa2c9ef2399e09",
+        "android_client_info": {
+          "package_name": "br.com.ltag.movpassinterview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738474782124-6rjft98nibpabovoisukq1c91qp7hj4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-UvIMd7aXZ6cYjvmqCMPT1Q-XIvZEWOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738474782124-6rjft98nibpabovoisukq1c91qp7hj4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
